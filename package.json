@@ -18,5 +18,9 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/anvaka/config.pixel"
+  },
+  "dependencies": {
+    "config.layout": "^0.1.1",
+    "config.view": "^0.1.1"
   }
 }

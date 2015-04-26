@@ -118,7 +118,7 @@ function createSettingsView(renderer) {
 
   function initGUI() {
     gui = new dat.GUI();
-    addGlobalViewSettings(renderer, gui);
-    addLayoutSettings(renderer, gui);
+    addGlobalViewSettings(api);
+    addLayoutSettings(api);
   }
 }
