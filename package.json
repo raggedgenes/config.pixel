@@ -1,0 +1,22 @@
+{
+  "name": "config.pixel",
+  "version": "0.1.0",
+  "description": "Privdes configuration interface for the ngraph.pixel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ngraph.pixel",
+    "dat",
+    "configuration",
+    "config",
+    "ui"
+  ],
+  "author": "Andrei Kashcha",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anvaka/config.pixel"
+  }
+}
