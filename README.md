@@ -1,6 +1,13 @@
 # config.pixel
 
-Privdes configuration interface for the ngraph.pixel
+Privdes configuration interface for the [ngraph.pixel](https://github.com/anvaka/ngraph.pixel)
+
+# usage
+
+``` js
+var createSettings = require('config.pixel');
+var settings = createSettings(renderer);
+```
 
 # install
 
