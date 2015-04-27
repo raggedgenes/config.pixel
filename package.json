@@ -1,6 +1,6 @@
 {
   "name": "config.pixel",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Privdes configuration interface for the ngraph.pixel",
   "main": "index.js",
   "scripts": {
