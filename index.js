@@ -8,8 +8,6 @@ function createSettingsView(renderer) {
   var gui;
   var settingsAreVisible = true;
 
-  initGUI();
-
   var api = {
     show: show,
     destroy: destroy,
@@ -27,6 +25,8 @@ function createSettingsView(renderer) {
     remove: remove,
     renderer: getRenderer,
   };
+
+  initGUI();
 
   return api;
 
