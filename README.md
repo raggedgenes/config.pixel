@@ -1,6 +1,6 @@
 # config.pixel
 
-Privdes configuration interface for the [ngraph.pixel](https://github.com/anvaka/ngraph.pixel)
+Provides configuration interface for the [ngraph.pixel](https://github.com/anvaka/ngraph.pixel)
 
 # usage
 
