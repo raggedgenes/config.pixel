@@ -20,11 +20,11 @@
     "url": "https://github.com/anvaka/config.pixel"
   },
   "peerDependencies": {
-    "ngraph.pixel": "2.x"
+    "ngraph.pixel": "git+https://github.com/raggedgenes/config.pixel.git"
   },
   "dependencies": {
     "config.layout": "0.1.2",
     "config.view": "2.0.0",
-    "exdat": "^0.6.2"
+    "dat.gui": "git+https://github.com/raggedgenes/dat.gui.git"
   }
 }

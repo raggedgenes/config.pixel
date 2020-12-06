@@ -1,4 +1,4 @@
-var dat = require('exdat');
+var dat = require('dat.gui');
 var addGlobalViewSettings = require('config.view');
 var addLayoutSettings = require('config.layout');
 
@@ -117,7 +117,7 @@ function createSettingsView(renderer) {
   }
 
   function initGUI() {
-    gui = new dat.GUI();
+    gui = new dat.GUI( { autoPlace: false } );
     addGlobalViewSettings(api);
     addLayoutSettings(api);
   }
